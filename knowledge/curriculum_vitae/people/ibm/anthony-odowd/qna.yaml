@@ -28,4 +28,4 @@ document:
   repo: https://github.com/ibm-team-finder/cv-database.git
   commit: e6e7dcbea27c0874680012f81eba4696da83604d
   patterns:
-    - anthony-odowd-cv.md
+    - cv-database/cv-database/people/ibm/anthony-odowd/anthony-odowd-cv.md
