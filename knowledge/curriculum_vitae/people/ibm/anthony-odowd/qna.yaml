@@ -26,6 +26,6 @@ seed_examples:
       Anthony can program in C, C++, S/360 Assembler, Java and Node.js.
 document:
   repo: https://github.com/ibm-team-finder/cv-database.git
-  commit: 6d5e953
+  commit: e6e7dcbea27c0874680012f81eba4696da83604d
   patterns:
-    - *.md
+    - anthony-odowd-cv.md
