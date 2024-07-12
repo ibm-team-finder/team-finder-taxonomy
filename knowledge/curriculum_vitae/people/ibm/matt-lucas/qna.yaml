@@ -27,4 +27,4 @@ document:
   repo: https://github.com/ibm-team-finder/cv-database.git
   commit: e6e7dcb
   patterns:
-    - /cv-database/people/ibm/matt-lucas/matt-lucas-cv.md
+    - matt-lucas-cv.md
