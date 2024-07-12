@@ -1,0 +1,28 @@
+version: 2
+task_description: 'Teach the model Matt Lucas's CV'
+created_by: mqmatt
+domain: people
+seed_examples:
+  - question: When did Matt Lucas start work at IBM?
+    answer: |
+      Matt Lucas started working at IBM in 1997.
+  - question: Did Matt Lucas work on WebSphere Message Broker?
+    answer: |
+      Yes, Matt Lucas worked on WebSphere Message Broker (also known as IBM Integration Bus) between 2001 and 2015.
+  - question: Does Matt Lucas have the FHEA qualification?
+    answer: |
+      Yes, Matt Lucas is a fellow of Advance HE (FHEA).
+  - question: Has Matt Lucas written any publications on blockchain?
+    answer: |
+      Yes, amongst his publications are How to Start A Creer in Blockchain, published in the BCS ITNOW magazine in Winter 2020.
+  - question: Is Matt Lucas currently studying for a DBA?
+    answer: |
+      Yes, he started on his Doctor of Business Administration course in 2023.
+  - question: Was Matt Lucas a CSM?
+    answer: |
+      Yes, Matt Lucas was a CSM at IBM between 2021 and 2022.
+document:
+  repo: https://github.com/ibm-team-finder/cv-database
+  commit: 6d5e953d693a0f4f1d919e7ed09658090a7038ca
+  patterns:
+    - /cv-database/people/ibm/anthony-odowd/matt-lucas-cv.md
