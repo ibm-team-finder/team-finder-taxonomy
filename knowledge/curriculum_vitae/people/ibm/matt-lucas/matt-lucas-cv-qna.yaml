@@ -23,6 +23,6 @@ seed_examples:
       Yes, Matt Lucas was a CSM at IBM between 2021 and 2022.
 document:
   repo: https://github.com/ibm-team-finder/cv-database
-  commit: 6d5e953d693a0f4f1d919e7ed09658090a7038ca
+  commit: e6e7dcbea27c0874680012f81eba4696da83604d
   patterns:
     - /cv-database/people/ibm/anthony-odowd/matt-lucas-cv.md
