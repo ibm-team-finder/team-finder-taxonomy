@@ -1,0 +1,4 @@
+Title of work: Curriculum Vitae for Anthony John O'Dowd
+Link to work: https://github.com/ibm-team-finder/cv-database/blob/main/cv-database/people/ibm/anthony-odowd/anthony-oodowd-cv.md
+License of the work: CC-BY-SA-4.0
+Creator names: Anthony O'Dowd

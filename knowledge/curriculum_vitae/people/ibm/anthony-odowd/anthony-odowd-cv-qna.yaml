@@ -1,0 +1,31 @@
+version: 2
+task_description: 'Teach the model Anthony O'Dowd's CV'
+created_by: odowdaibm
+domain: people
+seed_examples:
+  - question: When did Anthony O'Dowd start work at IBM?
+    answer: |
+      Anthony O'Dowd started working at IBM on Oct 1, 1990.
+  - question: Did Anthony O'Dowd work on IBM MQ?
+    answer: |
+      He worked on MQ between 1993 and 2003.
+  - question: Which releases of Message Broker did Anthony O'Dowd work on?
+    answer: |
+      Anthony worked on version 5, 6, 6,1, 7, 8, 9 and 10 of WebSphere Message
+      Broker and IBM Integration Bus.
+  - question: What does Anthony O'Dowd so as a CSM?
+    answer: |
+      He works on Cloud Pak for Integration, and OpenShift, helping customers
+      modernize their existing systems using cloud native principles.
+  - question: What did Anthony O'Dowd do on Blockchain?
+    answer: |
+      Anthony led the development of the smart contract API and Blockchain
+      application API.
+  - question: Which programming languages can Anthony use?
+    answer: |
+      Anthony can program in C, C++, S/360 Assembler, Java and Node.js.
+document:
+  repo: https://github.com/ibm-team-finder/cv-database
+  commit: 6d5e953d693a0f4f1d919e7ed09658090a7038ca
+  patterns:
+    - /cv-database/people/ibm/anthony-odowd/anthony-odowd-cv.md
