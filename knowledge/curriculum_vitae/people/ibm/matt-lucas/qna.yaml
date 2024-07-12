@@ -1,5 +1,5 @@
 version: 2
-task_description: 'Teach the model Matt Lucas's CV'
+task_description: 'Teach the model Matt Lucas CV'
 created_by: mqmatt
 domain: people
 seed_examples:
