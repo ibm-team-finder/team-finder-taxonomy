@@ -25,7 +25,7 @@ seed_examples:
     answer: |
       Anthony can program in C, C++, S/360 Assembler, Java and Node.js.
 document:
-  repo: https://github.com/ibm-team-finder/cv-database
-  commit: 6d5e953d693a0f4f1d919e7ed09658090a7038ca
+  repo: https://github.com/ibm-team-finder/cv-database.git
+  commit: 6d5e953
   patterns:
     - /cv-database/people/ibm/anthony-odowd/anthony-odowd-cv.md
