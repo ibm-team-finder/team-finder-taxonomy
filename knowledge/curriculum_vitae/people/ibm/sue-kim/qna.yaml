@@ -1,0 +1,29 @@
+version: 2
+task_description: 'Teach the model Sue Kim CV'
+created_by: sue-kim
+domain: people
+seed_examples:
+  - question: How long has Sue been working as a UX Engineer?
+    answer: |
+      Sue Kim has been working as a UX Engineer for 2.5 years since 2022.
+  - question: What skillsets does Sue have?
+    answer: |
+      She has strong UX skills with design thinking and user research capabilities.
+      She also has front-end development and geoanalysis skills.
+  - question: What latest education background does Sue have?
+    answer: |
+      Master of Design Studies in Technology and Master of Landscape Architecture
+      are her latest academic degrees.
+  - question: What did she do for Visualize NYC 2020 Exhibition project?
+    answer: |
+      She worked as a project manager in MIT Civic Data Design Lab to lead the
+      data-driven exploration approach to represent some of the issues in NYC.
+  - question: Has Sue given any talk as a speaker?
+    answer: |
+      Sue gave a talk at the Prague City Data Congress in 2022 to provide her
+      perspective on the human-centric approach to the concept of a smart city.
+document:
+  repo: https://github.com/ibm-team-finder/cv-database.git
+  commit: 7e4d606
+  patterns:
+    - cv-database/people/ibm/sue-kim/sue-kim-cv.md
