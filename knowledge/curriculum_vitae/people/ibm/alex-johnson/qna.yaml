@@ -25,4 +25,4 @@ document:
   repo: https://github.com/ibm-team-finder/cv-database.git
   commit: 8ced9a9
   patterns:
-    - cv-database/**/*-cv.md
+    - cv-database/people/ibm/alex-johnson/alex-johnson-cv.md

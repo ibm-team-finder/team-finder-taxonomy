@@ -1,0 +1,28 @@
+version: 2
+task_description: 'Teach all CVs'
+created_by: mqmatt
+domain: people
+seed_examples:
+  - question: When did John Doe start work at Acme Corp?
+    answer: |
+      John Doe started working at Acme Corp in 2018.
+  - question: What did Emily Lee do at Digital Innovators?
+    answer: |
+      She was a Junior UI Designer.
+  - question: How many years did Michael Brown work at Growth Enterprises?
+    answer: |
+      Michael Brown worked at Growth Enterprises for two years (2017-2019).
+  - question: Where does Lisa Rodriguez work now?
+    answer: |
+      Lisa Rodriguez currently works at PixelCraft Studios.
+  - question: Does Michael Brown have negotiation skills?
+    answer: |
+      Yes
+  - question: Does Michael Brown have C++ skills?
+    answer: |
+      No
+document:
+  repo: https://github.com/ibm-team-finder/cv-database.git
+  commit: 8ced9a9
+  patterns:
+    - cv-database/people/ibm/john-doe/john-doe-cv.md

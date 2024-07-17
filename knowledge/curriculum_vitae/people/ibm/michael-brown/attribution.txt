@@ -1,0 +1,4 @@
+Title of work: Curriculum Vitae for fictitious CVs
+Link to work: https://github.com/ibm-team-finder/cv-database/blob/main/cv-database/people/ibm/michael-brown/michael-brown-cv.md
+License of the work: CC-BY-SA-4.0
+Creator names: Matt Lucas
