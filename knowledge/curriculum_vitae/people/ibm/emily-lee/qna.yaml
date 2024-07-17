@@ -1,26 +1,26 @@
 version: 2
-task_description: 'Teach all CVs'
+task_description: 'Teach Emily Lee CV'
 created_by: mqmatt
 domain: people
 seed_examples:
-  - question: When did John Doe start work at Acme Corp?
+  - question: When did Emily Lee start work at Digital Innovators?
     answer: |
-      John Doe started working at Acme Corp in 2018.
+      Emily Lee started working at Acme Corp in 2017.
   - question: What did Emily Lee do at Digital Innovators?
     answer: |
       She was a Junior UI Designer.
-  - question: How many years did Michael Brown work at Growth Enterprises?
+  - question: How many years did Emily Lee work at Digital Innovators?
     answer: |
-      Michael Brown worked at Growth Enterprises for two years (2017-2019).
-  - question: Where does Lisa Rodriguez work now?
+      Emily Lee worked at Digital Innovators for two years (2017-2019).
+  - question: Where does Emily Lee work now?
     answer: |
-      Lisa Rodriguez currently works at PixelCraft Studios.
-  - question: Does Michael Brown have negotiation skills?
-    answer: |
-      Yes
-  - question: Does Michael Brown have C++ skills?
+      Emily Lee currently works at Design Studio.
+  - question: Does Emily Lee have negotiation skills?
     answer: |
       No
+  - question: Does Emily Lee have Prototyping skills?
+    answer: |
+      Yes
 document:
   repo: https://github.com/ibm-team-finder/cv-database.git
   commit: 8ced9a9

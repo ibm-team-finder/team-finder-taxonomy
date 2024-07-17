@@ -1,20 +1,20 @@
 version: 2
-task_description: 'Teach all CVs'
+task_description: 'Teach Michael Brown CV'
 created_by: mqmatt
 domain: people
 seed_examples:
-  - question: When did John Doe start work at Acme Corp?
+  - question: When did Michael Brown start work at Sales Solutions Incorporated?
     answer: |
-      John Doe started working at Acme Corp in 2018.
-  - question: What did Emily Lee do at Digital Innovators?
+      Michael Brown started working at Sales Solutions Incorporated in 2019.
+  - question: Has Michael Brown led a team of people?
     answer: |
-      She was a Junior UI Designer.
+      Yes, at Sales Solutions Inc. he led a team of 10 sales representatives.
   - question: How many years did Michael Brown work at Growth Enterprises?
     answer: |
       Michael Brown worked at Growth Enterprises for two years (2017-2019).
-  - question: Where does Lisa Rodriguez work now?
+  - question: Where does Michael Brown work now?
     answer: |
-      Lisa Rodriguez currently works at PixelCraft Studios.
+      Michael Brown currently works at Sales Solutions Incorporated.
   - question: Does Michael Brown have negotiation skills?
     answer: |
       Yes

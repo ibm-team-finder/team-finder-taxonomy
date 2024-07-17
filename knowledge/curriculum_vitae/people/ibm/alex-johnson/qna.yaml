@@ -1,26 +1,26 @@
 version: 2
-task_description: 'Teach all CVs'
+task_description: 'Teach Alex Johnson CV'
 created_by: mqmatt
 domain: people
 seed_examples:
-  - question: When did John Doe start work at Acme Corp?
+  - question: When did Alex Johnson start work at Startup Innovators?
     answer: |
-      John Doe started working at Acme Corp in 2018.
-  - question: What did Emily Lee do at Digital Innovators?
+      Alex Johnson started working at Startup Innovators in 2018.
+  - question: What did Alex Johnson do at Startup Innovators?
     answer: |
-      She was a Junior UI Designer.
-  - question: How many years did Michael Brown work at Growth Enterprises?
+      He was a Product Analyst.
+  - question: How many years did Alex Johnson work at Startup Innovators?
     answer: |
-      Michael Brown worked at Growth Enterprises for two years (2017-2019).
+      Alex Johnson worked at Growth Enterprises for two years (2018-2020).
   - question: Where does Lisa Rodriguez work now?
     answer: |
-      Lisa Rodriguez currently works at PixelCraft Studios.
-  - question: Does Michael Brown have negotiation skills?
-    answer: |
-      Yes
-  - question: Does Michael Brown have C++ skills?
+      Alex Johnson currently works at PixelCraft Studios.
+  - question: Does Alex Johnson have negotiation skills?
     answer: |
       No
+  - question: Does Alex Johnson have User Research skills?
+    answer: |
+      Yes
 document:
   repo: https://github.com/ibm-team-finder/cv-database.git
   commit: 8ced9a9

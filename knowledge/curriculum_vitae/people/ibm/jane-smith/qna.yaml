@@ -1,26 +1,26 @@
 version: 2
-task_description: 'Teach all CVs'
+task_description: 'Teach Jane Smith CV'
 created_by: mqmatt
 domain: people
 seed_examples:
-  - question: When did John Doe start work at Acme Corp?
+  - question: When did Jane Smith start work at Data Insights Co.?
     answer: |
-      John Doe started working at Acme Corp in 2018.
-  - question: What did Emily Lee do at Digital Innovators?
+      Jane Smith started working at Data Insights Company in 2019.
+  - question: What did Jane Smith do at Digital Innovators?
     answer: |
       She was a Junior UI Designer.
-  - question: How many years did Michael Brown work at Growth Enterprises?
+  - question: How many years did Jane Smith work at Analytics Innovators?
     answer: |
-      Michael Brown worked at Growth Enterprises for two years (2017-2019).
-  - question: Where does Lisa Rodriguez work now?
+      Jane Smith worked at Analytics Innovators for two years (2017-2019).
+  - question: Where does Jane Smith work now?
     answer: |
-      Lisa Rodriguez currently works at PixelCraft Studios.
-  - question: Does Michael Brown have negotiation skills?
-    answer: |
-      Yes
-  - question: Does Michael Brown have C++ skills?
+      Jane Smith currently works at Data Insights Company.
+  - question: Does Jane Smith have negotiation skills?
     answer: |
       No
+  - question: Does Jane Smith have Python skills?
+    answer: |
+      Yes
 document:
   repo: https://github.com/ibm-team-finder/cv-database.git
   commit: 8ced9a9

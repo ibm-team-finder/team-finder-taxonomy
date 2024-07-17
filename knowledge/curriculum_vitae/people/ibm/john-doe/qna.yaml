@@ -1,26 +1,26 @@
 version: 2
-task_description: 'Teach all CVs'
+task_description: 'Teach John Doe CV'
 created_by: mqmatt
 domain: people
 seed_examples:
-  - question: When did John Doe start work at Acme Corp?
+  - question: Has John Doe worked on front-end development?
     answer: |
-      John Doe started working at Acme Corp in 2018.
-  - question: What did Emily Lee do at Digital Innovators?
+      Yes, John Doe worked on front-end development at XYZ Tech between 2016 and 2018.
+  - question: What did John Doe do at Digital Innovators?
     answer: |
-      She was a Junior UI Designer.
-  - question: How many years did Michael Brown work at Growth Enterprises?
+      He has never worked at Digital Innovators.
+  - question: How many years did John Doe work at XYZ Tech?
     answer: |
-      Michael Brown worked at Growth Enterprises for two years (2017-2019).
-  - question: Where does Lisa Rodriguez work now?
+      John Doe worked at Digital Innovators for two years (2016-2018).
+  - question: Where does John Doe work now?
     answer: |
-      Lisa Rodriguez currently works at PixelCraft Studios.
-  - question: Does Michael Brown have negotiation skills?
-    answer: |
-      Yes
-  - question: Does Michael Brown have C++ skills?
+      John Doe currently works at Acme Corp.
+  - question: Does John Doe have negotiation skills?
     answer: |
       No
+  - question: Does John Doe have SQL skills?
+    answer: |
+      Yes
 document:
   repo: https://github.com/ibm-team-finder/cv-database.git
   commit: 8ced9a9
